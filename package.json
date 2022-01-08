@@ -1,5 +1,5 @@
 {
-  "name": "generator-create-react-app",
+  "name": "@vengets/generator-create-react-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Venkatesh K",
+    "email": "vengets@gmail.com",
+    "url": ""
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
@@ -15,5 +19,7 @@
     "glob": "^7.2.0",
     "yeoman-generator": "^5.5.2",
     "yosay": "^2.0.2"
-  }
+  },
+  "repository": "https://github.com/vengets/generator-create-react-app",
+  "license": "MIT"
 }
