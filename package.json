@@ -1,6 +1,6 @@
 {
   "name": "@vengets/generator-create-react-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "email": "vengets@gmail.com",
     "url": ""
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "color-convert": "^2.0.1",
@@ -23,6 +23,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "https://github.com/vengets/generator-create-react-app",
-  "license": "MIT"
+  "repository": "https://github.com/vengets/generator-create-react-app"
 }
