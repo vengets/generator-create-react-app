@@ -1,0 +1,19 @@
+{
+  "name": "generator-create-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "glob": "^7.2.0",
+    "yeoman-generator": "^5.5.2",
+    "yosay": "^2.0.2"
+  }
+}
